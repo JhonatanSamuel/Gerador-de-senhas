@@ -1,7 +1,7 @@
 <h2>Gerador de Senhas, podendo ser escolhido quantos caracteres de 6 a 25</h2>
 <br>
 <br>
-<h1>CGerador de Senhas</h1>
+<h1>Gerador de Senhas</h1>
 <br>
 <br>
 <p>Projeto criado com as tecnologias:
@@ -14,5 +14,5 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
 <br>
 <br>
-<p> Imagem do projéto </p>
-<img src=""
+<p> Imagem do projeto </p>
+<img src="https://github.com/JhonatanSamuel/Gerador-de-senhas/blob/master/assets/copia.jpg?raw=true" />
